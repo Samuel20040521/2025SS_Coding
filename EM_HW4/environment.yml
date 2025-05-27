@@ -1,0 +1,8 @@
+name: c420_demo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.25
+  - pillow>=10
+  - pip
